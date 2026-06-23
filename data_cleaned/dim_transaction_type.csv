@@ -1,0 +1,6 @@
+Transaction_Type,TransactionType_ID
+Financial Services,1
+Merchant payments,2
+Others,3
+Peer-to-peer payments,4
+Recharge & bill payments,5
